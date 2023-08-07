@@ -1,0 +1,15 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Quem Somos"
+    url: /about/
+  - title: "Pesquisadores"
+    url: /pesquisadores/
+  - title: "Projetos"
+    url: /projetos/
+  - title: "Publicações"
+    url: /publicacoes/
+  - title: "Notícias"
+    url: /noticias/
+  - title: "Contato"
+    url: /contato/
